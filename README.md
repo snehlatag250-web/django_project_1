@@ -1,2 +1,2 @@
-# django_project_1
+first
 This is my django project 
